@@ -30,3 +30,11 @@ section{
     background-image: url(shapes/7.png);
     
 }
+.value-2{
+    text-align: center;
+} 
+
+.centre-2{
+    text-align: center;
+    padding: 10px;
+}
