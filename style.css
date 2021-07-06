@@ -3,6 +3,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 200px;
 } 
 .orange-color{
     color: orange;
@@ -24,4 +25,8 @@ section{
     color: white;
     font-weight: 700;
 
+}
+.value{
+    background-image: url(shapes/7.png);
+    
 }
